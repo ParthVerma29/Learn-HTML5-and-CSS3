@@ -1,6 +1,23 @@
-h1 {
+/* h1 {
     color: cadetblue;
 }
 h2 {
     color: darkslategray;
+} */
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h3,
+p {
+    color: rgb(235, 223, 194);
+}
+
+h2 {
+    color: cadetblue;
+}
+
+#featured-products {
+    background: sienna;
 }
