@@ -21,3 +21,11 @@ h2 {
 #featured-products {
     background: sienna;
 }
+
+.bold {
+    font-weight: 600;
+}
+
+#header h1 {
+    color: darkslategrey;
+}
