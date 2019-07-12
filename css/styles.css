@@ -6,20 +6,21 @@ h2 {
 } */
 html {
     font-family: Arial, Helvetica, sans-serif;
+    background: #C19875;
 }
 
 h1,
 h3,
 p {
-    color: rgb(235, 223, 194);
+    color: #96BBBB;
 }
 
 h2 {
-    color: cadetblue;
+    color: 414535;
 }
 
 #featured-products {
-    background: sienna;
+    background: #414535;
 }
 
 .bold {
