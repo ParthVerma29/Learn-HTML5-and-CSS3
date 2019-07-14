@@ -8,9 +8,15 @@
     padding: 20px;
     margin: 2rem;
     text-align: center;
+    border: 5px green solid;
 }
 
 .paragraph {
     background: blue;
     margin: 5px;
+    padding: 5px 5px 600px 5px;
+    background-image: url(../img/Buy-Coffee-Beans.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
