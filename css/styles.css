@@ -30,3 +30,8 @@ h2 {
 #header h1 {
     color: darkslategrey;
 }
+
+#banner {
+    width: 50vw;
+    background: blanchedalmond;
+}
